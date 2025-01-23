@@ -67,6 +67,14 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
 />
 <img 
     align="left" 
+    alt="React Native"
+    title="React Native" 
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="25px" 
