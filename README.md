@@ -130,6 +130,14 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img    
+    align="left" 
+    alt="Bun" 
+    title="Bun"
+    width="25px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"
+/>
 <br/>
 <br/>
 
