@@ -164,7 +164,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraagu1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraagu1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
