@@ -29,7 +29,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -37,7 +37,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -45,7 +45,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -53,7 +53,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -61,7 +61,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -69,7 +69,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -77,7 +77,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
@@ -85,7 +85,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -93,7 +93,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="Spring Boot" 
     title="Spring Boot"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
@@ -101,7 +101,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="Node.js" 
     title="Node.js"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
@@ -109,7 +109,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="Nest.js" 
     title="Nest.js"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
@@ -118,7 +118,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="Golang" 
     title="Golang"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
 />         
@@ -126,7 +126,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -134,7 +134,7 @@ Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Conclu
     align="left" 
     alt="Bun" 
     title="Bun"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"
 />
