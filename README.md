@@ -5,7 +5,7 @@
 Me chamo Gustavo Oliveira, tenho 26 anos e sou natural de Santa Catarina. Concluí o curso ADS (Analise e desenvolvimento de sistemas) no SENAI (CTAI). Atualmente, estou cursando Engenharia de software na Uninter.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/oliveiraagu1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
