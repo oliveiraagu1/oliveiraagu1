@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Oliveira
+# 🧑🏻‍💻 Gustavo Oliveira
 
 **`Desenvolvedor FullStack`**
 
