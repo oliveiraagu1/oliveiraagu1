@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Oliveira, tenho 27 anos e sou natural de Santa Catarina. Concluí o curso ADS (Analise e desenvolvimento de sistemas) no SENAI (CTAI). Atualmente, estou cursando Engenharia de software na Uninter.
+Me chamo Gustavo Oliveira, tenho 28 anos e sou natural de Santa Catarina. Concluí o curso ADS (Analise e desenvolvimento de sistemas) no SENAI (CTAI). Atualmente, estou cursando Engenharia de software na Uninter.
 
 <p align="left">
     <a href="https://github.com/oliveiraagu1?tab=repositories&sort=stargazers">
